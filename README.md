@@ -22,9 +22,11 @@ The code first loads the image and converts it to grayscale. Then, it applies Ga
 ### Results 
 
 1. Image Used
+
 ![image](https://user-images.githubusercontent.com/64553113/216888641-52ea0a73-508f-4d8d-9078-f854e0687a94.png)
 
 2. Cropped Image to Detect Transistor
+
 ![image](https://user-images.githubusercontent.com/64553113/216888708-0ae816ca-49eb-4bb6-8269-4c4854efbdf9.png)
 
 3. Gray-Scale Image

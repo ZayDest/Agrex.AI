@@ -6,9 +6,9 @@ This repository contains code to detect transistors in an image using OpenCV. Th
 ### Prerequisites
 To run this code, you need to have the following software installed:
 
-Python 3
-OpenCV (pip install opencv-python)
-Numpy (pip install numpy)
+1. Python 3
+2. OpenCV (pip install opencv-python)
+3. Numpy (pip install numpy)
 
 ### Usage
 1. Clone the repository to your local machine.

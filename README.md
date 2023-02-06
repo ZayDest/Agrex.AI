@@ -12,7 +12,7 @@ To run this code, you need to have the following software installed:
 
 ### Usage
 1. Clone the repository to your local machine.
-2. Open the Jupyter Notebook file ObjectDetection.ipynb.
+2. Open the Jupyter Notebook file Agrex_AI.ipynb.
 3. In the code, replace the image file path with the path to your own image.
 4. Run the code and see the results.
 

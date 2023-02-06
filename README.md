@@ -45,7 +45,7 @@ The code first loads the image and converts it to grayscale. Then, it applies Ga
 
 ![image](https://user-images.githubusercontent.com/64553113/216889107-fe0aab4d-d373-4a31-8555-bed2cb0b0327.png)
 
-7. Image with all contours and drwan rectangles around each transistor detected
+7. Image with all contours and drawn rectangles around each transistor detected
 
 ![image](https://user-images.githubusercontent.com/64553113/216888588-6e3551d3-0ff9-4ac0-9f20-5135f10ee229.png)
 
